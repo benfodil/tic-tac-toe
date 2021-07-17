@@ -191,7 +191,7 @@ function clicki(palece){
 					document.getElementById('b'+palece).innerHTML = bx;
 					document.getElementById('bb'+palece).value = 1;
 					document.getElementById('prop').value = 2;
-					document.getElementById('msg').innerHTML = "Waiting His TURN!";
+					document.getElementById('msg').innerHTML = "Waiting TURN!";
 				}else if(id == 2){
 					document.getElementById('b'+palece).innerHTML = bo;
 					document.getElementById('bb'+palece).value = 2;
