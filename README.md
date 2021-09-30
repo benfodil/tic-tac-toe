@@ -1,5 +1,5 @@
-# Tic Tac Toe CO-OP
-Sample Tic Tac Toe Game Online With Your Freinds ( CO-OP )
+# Tic Tac Toe Multiplayer
+Sample Tic Tac Toe Game Online With Your Freinds ( Multiplayer )
 this sample project using PHP+JS+HTML+CSS+Bootstrap+JQuery+MySQL
 You can run this in any server or localhost you want its free and full open source
 
